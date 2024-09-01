@@ -61,4 +61,5 @@ st.markdown(original_title1, unsafe_allow_html=True)
 
 #st.audio(r"bb.mp3")
 
-original_title1 = '<p style="font-family: Arial, sans-serif; font-weight: bold; color: Black; font-size: 30px;"> ig8yg </p>
+original_title1 = '<p style="font-family: Arial, sans-serif; font-weight: bold; color: Black; font-size: 30px;">shayani zor lawash zyatri ❤️</p>'
+st.markdown(original_title1, unsafe_allow_html=True)
