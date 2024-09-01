@@ -51,12 +51,7 @@ st.markdown("""
 
 st.markdown('<p class="big-font">🥳 Happy birthday 🥳</p>', unsafe_allow_html=True)
 
-
-st.balloons()
-st.balloons()
-st.balloons()
-
-original_title = '<p style="font-family: Arial, sans-serif; font-weight: bold; color: Black; font-size: 20px;">SALWAAA rozhe la daykbunt peroz be mashallaa buya 17 sal bas heshta per but pewa dyar nia, inshallah 17 salit zor la salakani de xoshtr dabe u hamu sht ba dle xot dabe u dur dabe la nafare xrap, salwa atu zor sht buy lo mn la zor sht yarmatimt da  ka brasti kas naykrd u shanazit pewa dakam u atu taka kchi ka bradarmi chunka kas nia wchi tu awha jey siqa bi, qat nabua qsaki bkam laknt u ley pashiman bbmawa chunka har ba jde zor jey siqay, 7azm krd awjara ba shewaki jyawaz pet blem loya aw websitem drust krd hewadarm ba dlt be, ba zor drezhay pe nadam ba nusin AI bram tawaw daka ❤️❤️ </p>'
+original_title = '<p style="font-family: Arial, sans-serif; font-weight: bold; color: Black; font-size: 20px;"> Salwa alhamdullah hardukman ba xer u salamati gayshtina poli 12 ka yakaka la hastier trin mar7alakani zhyan, tab3an dabe ta pemanbkre bas tarkiz lasar xindnman bakian u loya wchi jaran natanin awha qsay pkain, pesh away poli 12 dast pe bka damawe bas pet brem ka chan gring buy lo mn u habunt la zhyanm zor gring bu lom, atu sarchaway xoshi rozhanam buy chandish naxosh bubi rozhakam bas ba qsa krdnak lagal tu tawaw hichm ber nadama, u aw rozhanay ka zor zorish be jaw buyma u taqati hichm nabua bas ba qsa krdn lagal tu rozhakam buyta rozhaki xosh, atu nak bashtrin bradar atu dktorishm buy, atu yakam nziktrin bradari kchmi u bashtrin kasi zhyanmi u bawr nakam kas wchi tu habi la dnia awha tegayshtu u ba rez u ba axlaq u jey siqa bi mashallat le bi bashtrini, u taka kchi ka awha siqam pe krdbi u hamu hamu shti xomi pe brem har awha siqam peta ka dli xomm dayey u har zorish pe dl xoshm chunka dazanm lakn yakaka zor zor jey siqaya u agay le dabe. Salwa wa3disht pe dadam har chrkak qsaman krdbi qat la bir nakam, har la ber nakam chunka har chrkak handi 10 sal xoshi bua lo mn. </p>'
 
 st.markdown(original_title, unsafe_allow_html=True)
 
